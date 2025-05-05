@@ -1,0 +1,269 @@
+TY  - BOOK
+TI  - Qualitative research in business and management
+AU  - Myers, Michael D.
+CY  - London
+DA  - 2025///
+PY  - 2025
+DP  - Open WorldCat
+LA  - eng
+PB  - Sage Publications
+SN  - 978-1-5296-6727-1
+ER  - 
+
+TY  - BOOK
+TI  - Research methods for business students
+AU  - Saunders, M. N. K.
+AU  - Lewis, Philip
+AU  - Thornhill, Adrian
+CN  - HD30.4 .S28 2023
+CY  - Harlow, England ; New York
+DA  - 2023///
+PY  - 2023
+DP  - Library of Congress ISBN
+ET  - Ninth edition
+PB  - Pearson
+SN  - 978-1-292-40272-7
+N1  - Research, reflective diaries and the purpose of this book -- Generating a research idea and developing your -- research proposal -- Critically reviewing the literature -- Understanding research philosophy and approaches to theory -- development -- Formulating the research design -- Negotiating access and research ethics -- Selecting samples -- Obtaining and evaluating secondary data -- Collecting primary data through observation -- Collecting primary data using interviews and diaries -- Collecting primary data using questionnaires -- Analysing data quantitatively -- Analysing data qualitatively -- Writing and presenting your project report
+KW  - Business
+KW  - Research
+KW  - Research Data processing
+ER  - 
+
+TY  - JOUR
+TI  - Towards an Explicit Research Methodology: Adapting Research Onion Model for Futures Studies
+AU  - Aleksandras Melnikovas
+T2  - Journal of Futures Studies
+DA  - 2018/12/31/
+PY  - 2018
+DO  - 10.6531/JFS.201812_23(2).0003
+DP  - DOI.org (CSL JSON)
+VL  - 23
+IS  - 2
+LA  - en
+ST  - Towards an Explicit Research Methodology
+ER  - 
+
+TY  - GEN
+TI  - Amortized Planning with Large-Scale Transformers: A Case Study on Chess
+AU  - Ruoss, Anian
+AU  - Delétang, Grégoire
+AU  - Medapati, Sourabh
+AU  - Grau-Moya, Jordi
+AU  - Wenliang, Li Kevin
+AU  - Catt, Elliot
+AU  - Reid, John
+AU  - Lewis, Cannada A.
+AU  - Veness, Joel
+AU  - Genewein, Tim
+AB  - This paper uses chess, a landmark planning problem in AI, to assess transformers' performance on a planning task where memorization is futile $\unicode{x2013}$ even at a large scale. To this end, we release ChessBench, a large-scale benchmark dataset of 10 million chess games with legal move and value annotations (15 billion data points) provided by Stockfish 16, the state-of-the-art chess engine. We train transformers with up to 270 million parameters on ChessBench via supervised learning and perform extensive ablations to assess the impact of dataset size, model size, architecture type, and different prediction targets (state-values, action-values, and behavioral cloning). Our largest models learn to predict action-values for novel boards quite accurately, implying highly non-trivial generalization. Despite performing no explicit search, our resulting chess policy solves challenging chess puzzles and achieves a surprisingly strong Lichess blitz Elo of 2895 against humans (grandmaster level). We also compare to Leela Chess Zero and AlphaZero (trained without supervision via self-play) with and without search. We show that, although a remarkably good approximation of Stockfish's search-based algorithm can be distilled into large-scale transformers via supervised learning, perfect distillation is still beyond reach, thus making ChessBench well-suited for future research.
+DA  - 2024/10/21/
+PY  - 2024
+DO  - 10.48550/arXiv.2402.04494
+DP  - arXiv.org
+PB  - arXiv
+ST  - Amortized Planning with Large-Scale Transformers
+UR  - http://arxiv.org/abs/2402.04494
+Y2  - 2025/05/05/06:36:22
+L1  - files/6/Ruoss et al. - 2024 - Amortized Planning with Large-Scale Transformers A Case Study on Chess.pdf
+L2  - files/7/2402.html
+KW  - Computer Science - Artificial Intelligence
+KW  - Computer Science - Machine Learning
+KW  - Statistics - Machine Learning
+ER  - 
+
+TY  - JOUR
+TI  - Chess AI: Competing Paradigms for Machine Intelligence
+AU  - Maharaj, Shiva
+AU  - Polson, Nick
+AU  - Turk, Alex
+T2  - Entropy
+AB  - Endgame studies have long served as a tool for testing human creativity and intelligence. We find that they can serve as a tool for testing machine ability as well. Two of the leading chess engines, Stockfish and Leela Chess Zero (LCZero), employ significantly different methods during play. We use Plaskett's Puzzle, a famous endgame study from the late 1970s, to compare the two engines. Our experiments show that Stockfish outperforms LCZero on the puzzle. We examine the algorithmic differences between the engines and use our observations as a basis for carefully interpreting the test results. Drawing inspiration from how humans solve chess problems, we ask whether machines can possess a form of imagination. On the theoretical side, we describe how Bellman's equation may be applied to optimize the probability of winning. To conclude, we discuss the implications of our work on artificial intelligence (AI) and artificial general intelligence (AGI), suggesting possible avenues for future research.
+DA  - 2022/04/14/
+PY  - 2022
+DO  - 10.3390/e24040550
+DP  - arXiv.org
+VL  - 24
+IS  - 4
+SP  - 550
+J2  - Entropy
+SN  - 1099-4300
+ST  - Chess AI
+UR  - http://arxiv.org/abs/2109.11602
+Y2  - 2025/05/05/06:36:48
+L1  - files/10/Maharaj et al. - 2022 - Chess AI Competing Paradigms for Machine Intelligence.pdf
+L2  - files/11/2109.html
+N1  - Comment: 15 pages, 8 figures
+KW  - Computer Science - Artificial Intelligence
+KW  - Computer Science - Machine Learning
+KW  - Statistics - Machine Learning
+ER  - 
+
+TY  - GEN
+TI  - Neural Networks for Chess
+AU  - Klein, Dominik
+AB  - AlphaZero, Leela Chess Zero and Stockfish NNUE revolutionized Computer Chess. This book gives a complete introduction into the technical inner workings of such engines. The book is split into four main chapters -- excluding chapter 1 (introduction) and chapter 6 (conclusion): Chapter 2 introduces neural networks and covers all the basic building blocks that are used to build deep networks such as those used by AlphaZero. Contents include the perceptron, back-propagation and gradient descent, classification, regression, multilayer perceptron, vectorization techniques, convolutional networks, squeeze and excitation networks, fully connected networks, batch normalization and rectified linear units, residual layers, overfitting and underfitting. Chapter 3 introduces classical search techniques used for chess engines as well as those used by AlphaZero. Contents include minimax, alpha-beta search, and Monte Carlo tree search. Chapter 4 shows how modern chess engines are designed. Aside from the ground-breaking AlphaGo, AlphaGo Zero and AlphaZero we cover Leela Chess Zero, Fat Fritz, Fat Fritz 2 and Efficiently Updatable Neural Networks (NNUE) as well as Maia. Chapter 5 is about implementing a miniaturized AlphaZero. Hexapawn, a minimalistic version of chess, is used as an example for that. Hexapawn is solved by minimax search and training positions for supervised learning are generated. Then as a comparison, an AlphaZero-like training loop is implemented where training is done via self-play combined with reinforcement learning. Finally, AlphaZero-like training and supervised training are compared.
+DA  - 2022/09/03/
+PY  - 2022
+DO  - 10.48550/arXiv.2209.01506
+DP  - arXiv.org
+PB  - arXiv
+UR  - http://arxiv.org/abs/2209.01506
+Y2  - 2025/05/05/06:37:00
+L1  - files/13/Klein - 2022 - Neural Networks for Chess.pdf
+L2  - files/14/2209.html
+KW  - Computer Science - Artificial Intelligence
+KW  - Computer Science - Machine Learning
+ER  - 
+
+TY  - JOUR
+TI  - Literature review as a research methodology: An overview and guidelines
+AU  - Snyder, Hannah
+T2  - Journal of Business Research
+DA  - 2019/11//
+PY  - 2019
+DO  - 10.1016/j.jbusres.2019.07.039
+DP  - DOI.org (Crossref)
+VL  - 104
+SP  - 333
+EP  - 339
+J2  - Journal of Business Research
+LA  - en
+SN  - 01482963
+ST  - Literature review as a research methodology
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0148296319304564
+Y2  - 2025/05/05/06:37:28
+L1  - files/16/Snyder - 2019 - Literature review as a research methodology An overview and guidelines.pdf
+ER  - 
+
+TY  - BOOK
+TI  - Qualitative Inquiry & Research Design
+AU  - Creswell, John W.
+AU  - Poth, Cheryl N.
+AB  - "This book explores the philosophical underpinnings, history, and key elements of five qualitative inquiry approaches: narrative research, phenomenology, grounded theory, ethnography, and case study. The authors compare the approaches and relate research designs to each of the traditions of inquiry in a highly accessible manner. Featuring new content, articles, pedagogy, references, and expanded coverage of ethics throughout, the book is an introduction to the theories, strategies, and practices of qualitative inquiry." -- Provided by the publisher
+CY  - Los Angeles
+DA  - 2018///
+PY  - 2018
+DP  - Open WorldCat
+ET  - Fourth edition
+LA  - eng
+PB  - SAGE
+SN  - 978-1-5063-3020-4
+ER  - 
+
+TY  - BOOK
+TI  - Constructing grounded theory
+AU  - Charmaz, Kathy
+T2  - Introducing qualitative methods
+CY  - Los Angeles, Calif.
+DA  - 2014///
+PY  - 2014
+DP  - K10plus ISBN
+ET  - 2. ed
+SP  - 388
+LA  - eng
+PB  - SAGE
+SN  - 978-0-85702-913-3 978-0-85702-914-0
+N1  - Previous ed.: 2006. - Literaturverzeichnis: Seite [346]-378
+ER  - 
+
+TY  - BOOK
+TI  - Case study research and applications: design and methods
+AU  - Yin, Robert K.
+CN  - H62 .Y56 2018
+CY  - Los Angeles
+DA  - 2018///
+PY  - 2018
+DP  - Library of Congress ISBN
+ET  - Sixth edition
+SP  - 319
+PB  - SAGE
+SN  - 978-1-5063-3616-9
+ST  - Case study research and applications
+N1  - Earlier editions called: Case study research : design and methods
+KW  - Case method
+KW  - Research Methodology
+KW  - Social sciences
+ER  - 
+
+TY  - BOOK
+TI  - Qualitative research methods: collecting evidence, crafting analysis, communicating impact
+AU  - Tracy, Sarah J.
+CY  - Hoboken, NJ
+DA  - 2020///
+PY  - 2020
+DP  - K10plus ISBN
+ET  - Second edition
+SP  - 412
+LA  - eng
+PB  - Wiley Blackwell
+SN  - 978-1-119-39080-0 978-1-119-39078-7
+ST  - Qualitative research methods
+N1  - Includes bibliographical references and index
+ER  - 
+
+TY  - BOOK
+TI  - Social research methods
+AU  - Bryman, Alan
+CY  - Oxford
+DA  - 2016///
+PY  - 2016
+DP  - K10plus ISBN
+ET  - Fifth edition
+SP  - 747
+LA  - eng
+PB  - Oxford University Press
+SN  - 978-0-19-968945-3
+N1  - Hier auch später erschienene, unveränderte Nachdrucke "The best-selling and most trusted research methods text" - Cover Literaturverzeichnis: Seite 698-725 Mit Glossar und Registern "© Alan Bryman 2016" (ungezählte Seite iv)
+ER  - 
+
+TY  - BOOK
+TI  - Interviews in qualitative research
+AU  - King, Nigel
+CN  - H61.28 .K56 2019
+CY  - Los Angeles
+DA  - 2019///
+PY  - 2019
+DP  - Library of Congress ISBN
+ET  - 2nd edition
+SP  - 349
+PB  - SAGE
+SN  - 978-1-4462-7496-5
+KW  - Interviewing in sociology
+KW  - Qualitative research
+KW  - Research Methodology
+KW  - Sociology
+ER  - 
+
+TY  - BOOK
+TI  - Interpreting qualitative data: a guide to the principles of qualitative research
+AU  - Silverman, David
+CY  - Los Angeles, Calif.
+DA  - 2011///
+PY  - 2011
+DP  - K10plus ISBN
+ET  - 4. ed
+SP  - 500
+LA  - eng
+PB  - SAGE
+SN  - 978-0-85702-421-3 978-0-85702-420-6
+ST  - Interpreting qualitative data
+N1  - Literaturverz. S. [473] - 490
+ER  - 
+
+TY  - BOOK
+TI  - Handbook of interview research: context & method
+T2  - A Sage reference title
+A3  - Gubrium, Jaber F.
+CY  - Thousand Oaks, Calif.
+DA  - 20
+PY  - 20
+DP  - K10plus ISBN
+ET  - Nachdr.
+SP  - 981
+LA  - eng
+PB  - Sage
+SN  - 978-0-7619-1951-3
+ST  - Handbook of interview research
+N1  - Literaturangaben
+ER  - 
+

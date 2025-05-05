@@ -1,0 +1,274 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Page-1" id="0hR8YSfDXOYgBQ_CYvlL">
+    <mxGraphModel dx="2239" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NxS91aCu4DIEj_iN74vv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="-4G90_z53GpQkwJH2JQ9-2" target="-4G90_z53GpQkwJH2JQ9-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-840.08" y="-983" />
+              <mxPoint x="-840.08" y="-832" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="-4G90_z53GpQkwJH2JQ9-2" target="-4G90_z53GpQkwJH2JQ9-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-840.08" y="-983" />
+              <mxPoint x="-840.08" y="-565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;shape=link;" parent="1" source="-4G90_z53GpQkwJH2JQ9-2" target="-4G90_z53GpQkwJH2JQ9-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-840.08" y="-983" />
+              <mxPoint x="-840.08" y="-260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;Research Methodologies in Qualitative Research&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-790.08" y="-1030" width="210" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;shape=link;" parent="1" source="-4G90_z53GpQkwJH2JQ9-3" target="-4G90_z53GpQkwJH2JQ9-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="-982.5" />
+              <mxPoint x="-480" y="-832" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="-4G90_z53GpQkwJH2JQ9-3" target="-4G90_z53GpQkwJH2JQ9-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="-982.5" />
+              <mxPoint x="-480" y="-650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="-4G90_z53GpQkwJH2JQ9-3" target="-4G90_z53GpQkwJH2JQ9-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="-983" />
+              <mxPoint x="-480" y="-460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-3" value="&lt;b&gt;Data Collection Methods in Qualitative Research&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="-1030" width="210" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="-4G90_z53GpQkwJH2JQ9-6" target="-4G90_z53GpQkwJH2JQ9-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-6" value="&lt;b&gt;Grounded Theory&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;&quot; data-end=&quot;680&quot; data-start=&quot;651&quot;&gt;[8] Creswell &amp;amp; Poth, 2018&lt;/span&gt; and &lt;span style=&quot;&quot; data-end=&quot;706&quot; data-start=&quot;685&quot;&gt;[9] Charmaz, 2014&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-757.58" y="-735" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="-4G90_z53GpQkwJH2JQ9-10" target="-4G90_z53GpQkwJH2JQ9-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="-983" />
+              <mxPoint x="-100" y="-832" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="-4G90_z53GpQkwJH2JQ9-10" target="-4G90_z53GpQkwJH2JQ9-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="-983" />
+              <mxPoint x="-100" y="-650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;shape=link;" parent="1" source="-4G90_z53GpQkwJH2JQ9-10" target="-4G90_z53GpQkwJH2JQ9-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="-983" />
+              <mxPoint x="-100" y="-469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-10" value="&lt;b&gt;Critical Evaluation of Qualitative Research&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-42.5" y="-1030" width="210" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="-4G90_z53GpQkwJH2JQ9-11" target="-4G90_z53GpQkwJH2JQ9-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-570" y="-814" />
+              <mxPoint x="-570" y="-814" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="-4G90_z53GpQkwJH2JQ9-12" target="-4G90_z53GpQkwJH2JQ9-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-210" y="-525" />
+              <mxPoint x="-210" y="-832" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="-4G90_z53GpQkwJH2JQ9-12" target="-4G90_z53GpQkwJH2JQ9-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-12" value="&lt;b&gt;Case Study Research&lt;/b&gt;&lt;div&gt;[10] Yin, 2017&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-757.58" y="-595" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" parent="1" source="-4G90_z53GpQkwJH2JQ9-13" target="-4G90_z53GpQkwJH2JQ9-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-230" y="-385" />
+              <mxPoint x="-230" y="-630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="-4G90_z53GpQkwJH2JQ9-14" target="-4G90_z53GpQkwJH2JQ9-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-210" y="-260" />
+              <mxPoint x="-210" y="-832" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-14" value="&lt;b&gt;Narrative Research&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;[11] Tracy, 2020&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-755.08" y="-295" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-15" value="&lt;b&gt;Observations&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;[11] Tracy, 2020&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-397.5" y="-685" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" parent="1" source="-4G90_z53GpQkwJH2JQ9-16" target="-4G90_z53GpQkwJH2JQ9-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-140" y="-850" />
+              <mxPoint x="-140" y="-850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="-4G90_z53GpQkwJH2JQ9-16" target="-4G90_z53GpQkwJH2JQ9-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-170" y="-832" />
+              <mxPoint x="-170" y="-700" />
+              <mxPoint x="-30" y="-700" />
+              <mxPoint x="-30" y="-650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-16" value="&lt;b&gt;Interviews&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;[12] Bryman, 2015 and [13] King, Horrocks &amp;amp; Brooks, 2018&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-397.5" y="-867" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-17" value="&lt;b&gt;Document Analysis&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;[8] Creswell &amp;amp; Poth, 2018&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-397.5" y="-495" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-18" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;Weaknesses&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;[14] Silverman, 2020 and [15] Gubrium &amp;amp; Holstein, 2012&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="-685" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-19" value="&lt;b&gt;Strengths&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;[7] Snyder, 2019&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="-867" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="-4G90_z53GpQkwJH2JQ9-20" target="-4G90_z53GpQkwJH2JQ9-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="187.5" y="-435" />
+              <mxPoint x="187.5" y="-820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" parent="1" source="-4G90_z53GpQkwJH2JQ9-20" target="-4G90_z53GpQkwJH2JQ9-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135.5" y="-705" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="177.5" y="-435" />
+              <mxPoint x="177.5" y="-630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="-4G90_z53GpQkwJH2JQ9-20" target="-4G90_z53GpQkwJH2JQ9-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="63" y="-375" />
+              <mxPoint x="-131" y="-375" />
+              <mxPoint x="-131" y="-650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-20" value="&lt;b&gt;Triangulation for Credibility&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;[14] Silverman, 2020&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-17.5" y="-504" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Relies On&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-615.0799999999999" y="-855" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Supports&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-607.5799999999999" y="-724" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-26" value="Uses" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-615.0799999999999" y="-555" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Depends on&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-607.5799999999999" y="-425" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-31" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Requires&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-612.5799999999999" y="-255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-37" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Subject to bias&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="-726" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-38" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Provide rich insights&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-252.5" y="-875" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-42" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Enhances Validity&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-510" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-43" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Reduces Bias Impact&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-775" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-45" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Addresses&lt;br&gt;Reliability&lt;br&gt;Concerns&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="-365" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;shape=link;" parent="1" source="-4G90_z53GpQkwJH2JQ9-2" target="-4G90_z53GpQkwJH2JQ9-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-790.08" y="-983" as="sourcePoint" />
+            <mxPoint x="-685.08" y="-295" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-840.08" y="-983" />
+              <mxPoint x="-840.08" y="-420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-13" value="&lt;p class=&quot;&quot; data-end=&quot;898&quot; data-start=&quot;871&quot;&gt;&lt;strong data-end=&quot;896&quot; data-start=&quot;871&quot;&gt;Ethnographic Research&lt;br&gt;&lt;/strong&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;[11] Tracy, 2020&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-755.08" y="-445" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;shape=link;" parent="1" source="-4G90_z53GpQkwJH2JQ9-2" target="-4G90_z53GpQkwJH2JQ9-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-790.08" y="-983" as="sourcePoint" />
+            <mxPoint x="-680.08" y="-715" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-840.08" y="-983" />
+              <mxPoint x="-840.08" y="-695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4G90_z53GpQkwJH2JQ9-11" value="&lt;b&gt;Phenomenology&lt;/b&gt;&lt;div&gt;[7] Snyder, 2019&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-757.58" y="-867" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;seeks to understand&lt;br&gt;individuals’ lived&lt;br&gt;&amp;nbsp;experiences through in-depth interviews&lt;br&gt;&amp;nbsp;and thematic analysis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-782.58" y="-930" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;involves data collection and analysis &lt;br&gt;to develop theories in a continuous&lt;br&gt;manner until theoretical saturation is reached&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-795.08" y="-788" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-22" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;used to provide a detailed exploration of a specific case &lt;br&gt;through the perspective of the&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;subjects&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-820.08" y="-648" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-23" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;seeks to understand social life, cultural practices, and &lt;br&gt;human behavior by immersing the researcher in the natural&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;environment of the study subjects&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-830.08" y="-499" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NxS91aCu4DIEj_iN74vv-24" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;explores how individuals construct&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;meaning from&lt;br&gt;their personal or communal narratives, often&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;emphasizing the role of context, identity, and culture in&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;shaping these stories&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-812.58" y="-361" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZH0ABs5cMeZ3MqNFADc-3" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;using multiple methods, sources, or perspectives to&lt;br&gt;corroborate and validate research results&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-541" width="250" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
