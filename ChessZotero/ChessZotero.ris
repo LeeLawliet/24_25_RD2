@@ -1,4 +1,4 @@
-TY  - GEN
+TY  - JOUR
 TI  - Amortized Planning with Large-Scale Transformers: A Case Study on Chess
 AU  - Ruoss, Anian
 AU  - Delétang, Grégoire
@@ -15,15 +15,14 @@ DA  - 2024/10/21/
 PY  - 2024
 DO  - 10.48550/arXiv.2402.04494
 DP  - arXiv.org
-PB  - arXiv
 ST  - Amortized Planning with Large-Scale Transformers
 UR  - http://arxiv.org/abs/2402.04494
 Y2  - 2025/05/05/06:36:22
-L1  - files/6/Ruoss et al. - 2024 - Amortized Planning with Large-Scale Transformers A Case Study on Chess.pdf
-L2  - files/7/2402.html
-KW  - Computer Science - Artificial Intelligence
-KW  - Computer Science - Machine Learning
-KW  - Statistics - Machine Learning
+L1  - files/84/Ruoss et al. - 2024 - Amortized Planning with Large-Scale Transformers A Case Study on Chess.pdf
+L2  - files/85/2402.html
+N1  - <div data-schema-version="9"><p>ArXiv preprint on engine without search. Great to contrast pure engine strength vs. CV application</p>
+</div>
+KW  - Chess AI
 ER  - 
 
 TY  - JOUR
@@ -45,15 +44,13 @@ SN  - 1099-4300
 ST  - Chess AI
 UR  - http://arxiv.org/abs/2109.11602
 Y2  - 2025/05/05/06:36:48
-L1  - files/10/Maharaj et al. - 2022 - Chess AI Competing Paradigms for Machine Intelligence.pdf
-L2  - files/11/2109.html
-N1  - Comment: 15 pages, 8 figures
-KW  - Computer Science - Artificial Intelligence
-KW  - Computer Science - Machine Learning
-KW  - Statistics - Machine Learning
+L1  - files/88/Maharaj et al. - 2022 - Chess AI Competing Paradigms for Machine Intelligence.pdf
+L2  - files/89/2109.html
+N1  - <p>Comment: 15 pages, 8 figures</p>
+KW  - Chess AI
 ER  - 
 
-TY  - GEN
+TY  - JOUR
 TI  - Neural Networks for Chess
 AU  - Klein, Dominik
 AB  - AlphaZero, Leela Chess Zero and Stockfish NNUE revolutionized Computer Chess. This book gives a complete introduction into the technical inner workings of such engines. The book is split into four main chapters -- excluding chapter 1 (introduction) and chapter 6 (conclusion): Chapter 2 introduces neural networks and covers all the basic building blocks that are used to build deep networks such as those used by AlphaZero. Contents include the perceptron, back-propagation and gradient descent, classification, regression, multilayer perceptron, vectorization techniques, convolutional networks, squeeze and excitation networks, fully connected networks, batch normalization and rectified linear units, residual layers, overfitting and underfitting. Chapter 3 introduces classical search techniques used for chess engines as well as those used by AlphaZero. Contents include minimax, alpha-beta search, and Monte Carlo tree search. Chapter 4 shows how modern chess engines are designed. Aside from the ground-breaking AlphaGo, AlphaGo Zero and AlphaZero we cover Leela Chess Zero, Fat Fritz, Fat Fritz 2 and Efficiently Updatable Neural Networks (NNUE) as well as Maia. Chapter 5 is about implementing a miniaturized AlphaZero. Hexapawn, a minimalistic version of chess, is used as an example for that. Hexapawn is solved by minimax search and training positions for supervised learning are generated. Then as a comparison, an AlphaZero-like training loop is implemented where training is done via self-play combined with reinforcement learning. Finally, AlphaZero-like training and supervised training are compared.
@@ -61,12 +58,10 @@ DA  - 2022/09/03/
 PY  - 2022
 DO  - 10.48550/arXiv.2209.01506
 DP  - arXiv.org
-PB  - arXiv
 UR  - http://arxiv.org/abs/2209.01506
 Y2  - 2025/05/05/06:37:00
-L1  - files/13/Klein - 2022 - Neural Networks for Chess.pdf
-L2  - files/14/2209.html
-KW  - Computer Science - Artificial Intelligence
-KW  - Computer Science - Machine Learning
+L1  - files/91/Klein - 2022 - Neural Networks for Chess.pdf
+L2  - files/92/2209.html
+KW  - Chess AI
 ER  - 
 
