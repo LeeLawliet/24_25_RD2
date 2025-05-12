@@ -8,6 +8,9 @@ DP  - Open WorldCat
 LA  - eng
 PB  - Sage Publications
 SN  - 978-1-5296-6727-1
+N1  - <div data-schema-version="9"><p>Introduces interpretivist and constructivist paradigms; Key justification for using case-study interviews.</p>
+</div>
+KW  - Qualitative Research
 ER  - 
 
 TY  - BOOK
@@ -23,10 +26,9 @@ DP  - Library of Congress ISBN
 ET  - Ninth edition
 PB  - Pearson
 SN  - 978-1-292-40272-7
-N1  - Research, reflective diaries and the purpose of this book -- Generating a research idea and developing your -- research proposal -- Critically reviewing the literature -- Understanding research philosophy and approaches to theory -- development -- Formulating the research design -- Negotiating access and research ethics -- Selecting samples -- Obtaining and evaluating secondary data -- Collecting primary data through observation -- Collecting primary data using interviews and diaries -- Collecting primary data using questionnaires -- Analysing data quantitatively -- Analysing data qualitatively -- Writing and presenting your project report
-KW  - Business
-KW  - Research
-KW  - Research Data processing
+N1  - <div data-schema-version="9"><p>Good explanation of mono vs. mixed methods; useful for framing a cross-sectional, mono-method approach.</p>
+</div>
+KW  - Interviews
 ER  - 
 
 TY  - JOUR
@@ -41,6 +43,8 @@ VL  - 23
 IS  - 2
 LA  - en
 ST  - Towards an Explicit Research Methodology
+N1  - <div data-schema-version="9"><p>Visual ‘onion’ layers model, good to cite when showing research onion.</p>
+</div>
 ER  - 
 
 TY  - JOUR
@@ -60,7 +64,7 @@ SN  - 01482963
 ST  - Literature review as a research methodology
 UR  - https://linkinghub.elsevier.com/retrieve/pii/S0148296319304564
 Y2  - 2025/05/05/06:37:28
-L1  - files/16/Snyder - 2019 - Literature review as a research methodology An overview and guidelines.pdf
+L1  - files/68/Snyder - 2019 - Literature review as a research methodology An overview and guidelines.pdf
 ER  - 
 
 TY  - BOOK
@@ -76,6 +80,7 @@ ET  - Fourth edition
 LA  - eng
 PB  - SAGE
 SN  - 978-1-5063-3020-4
+KW  - Qualitative Research
 ER  - 
 
 TY  - BOOK
@@ -91,7 +96,8 @@ SP  - 388
 LA  - eng
 PB  - SAGE
 SN  - 978-0-85702-913-3 978-0-85702-914-0
-N1  - Previous ed.: 2006. - Literaturverzeichnis: Seite [346]-378
+N1  - <p>Previous ed.: 2006. - Literaturverzeichnis: Seite [346]-378</p>
+KW  - Case Study
 ER  - 
 
 TY  - BOOK
@@ -107,10 +113,10 @@ SP  - 319
 PB  - SAGE
 SN  - 978-1-5063-3616-9
 ST  - Case study research and applications
-N1  - Earlier editions called: Case study research : design and methods
-KW  - Case method
+N1  - <p>Earlier editions called: Case study research : design and methods</p>
 KW  - Research Methodology
 KW  - Social sciences
+KW  - Case Study
 ER  - 
 
 TY  - BOOK
@@ -126,7 +132,9 @@ LA  - eng
 PB  - Wiley Blackwell
 SN  - 978-1-119-39080-0 978-1-119-39078-7
 ST  - Qualitative research methods
-N1  - Includes bibliographical references and index
+N1  - <p>Includes bibliographical references and index</p>
+KW  - Qualitative Research
+KW  - Case Study
 ER  - 
 
 TY  - BOOK
@@ -141,7 +149,7 @@ SP  - 747
 LA  - eng
 PB  - Oxford University Press
 SN  - 978-0-19-968945-3
-N1  - Hier auch später erschienene, unveränderte Nachdrucke "The best-selling and most trusted research methods text" - Cover Literaturverzeichnis: Seite 698-725 Mit Glossar und Registern "© Alan Bryman 2016" (ungezählte Seite iv)
+N1  - <p>Hier auch später erschienene, unveränderte Nachdrucke "The best-selling and most trusted research methods text" - Cover Literaturverzeichnis: Seite 698-725 Mit Glossar und Registern "© Alan Bryman 2016" (ungezählte Seite iv)</p>
 ER  - 
 
 TY  - BOOK
@@ -156,10 +164,10 @@ ET  - 2nd edition
 SP  - 349
 PB  - SAGE
 SN  - 978-1-4462-7496-5
-KW  - Research Methodology
-KW  - Interviewing in sociology
+N1  - <div data-schema-version="9"><p>Details semi-structured interview protocols; directly informs a 10-question guide.</p>
+</div>
 KW  - Qualitative research
-KW  - Sociology
+KW  - Interviews
 ER  - 
 
 TY  - BOOK
@@ -175,7 +183,8 @@ LA  - eng
 PB  - SAGE
 SN  - 978-0-85702-421-3 978-0-85702-420-6
 ST  - Interpreting qualitative data
-N1  - Literaturverz. S. [473] - 490
+N1  - <p>Literaturverz. S. [473] - 490</p>
+KW  - Qualitative Research
 ER  - 
 
 TY  - BOOK
@@ -183,8 +192,8 @@ TI  - Handbook of interview research: context & method
 T2  - A Sage reference title
 A3  - Gubrium, Jaber F.
 CY  - Thousand Oaks, Calif.
-DA  - 20
-PY  - 20
+DA  - 0020///
+PY  - 0020
 DP  - K10plus ISBN
 ET  - Nachdr.
 SP  - 981
@@ -192,6 +201,7 @@ LA  - eng
 PB  - Sage
 SN  - 978-0-7619-1951-3
 ST  - Handbook of interview research
-N1  - Literaturangaben
+N1  - <p>Literaturangaben</p>
+KW  - interviewing
 ER  - 
 
