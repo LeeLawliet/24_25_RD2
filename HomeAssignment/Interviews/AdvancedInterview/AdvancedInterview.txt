@@ -1,0 +1,1091 @@
+Okay, hello.
+
+Mella, thanks for taking part.
+
+Mella, before I start the interview questions, I'm going to do a rundown of the setup requirement.ments and both physically and to actually set up a game and use the program's features .
+
+So for hardware requirements, you will require a physical chess board of, of course, with the pieces, you will need a single camera, so this could be either connected to your smartphone or a webcam. And you will need the camera, you will need to mount it or hold it at a 90 degree angle so you can capture the board from above.
+
+Okay.
+
+Now, to set up a game, Wait, so before we go out, do you have any questions on the setup?
+
+It's clear.
+
+Do I have to get a board physically?
+
+We have to get, not now. To use the program, yes, you will need a physical b the.
+
+Exactly, exactly.
+
+Now, for to set up a game, you will have two choices.
+
+You will have either the puzzle solver, or you will have a game tracker where you play a game, a normal game.
+
+So for the puzzle solver, it will randomly generate a puzzuzzle for you to solve, similar to the things you do on chess.com or lehes .
+
+The only requirement for the puzle solver from you is that you set up the physical board in the way that it reflects the position given for the puzzle.
+
+That's all.
+
+For the game Treker, you can set up a game from any position you like and from then on it will track the moves automatically.
+
+Two, of course, set up the game from this position.
+
+You will require an FBN swing.
+
+I'm sure you're familiar with Fian strings.
+
+Exactly.
+
+You can get this from a digital website where you can convertible to FN.
+
+It's simple.
+
+And then, you will pass the Fian to the program and it will start from there.
+
+Now, if you do not touch anything, the program will assume that you are just playing a normal game from a starting position.
+
+You won't need any Manuel,put you just start and play.
+
+Are there any questions on the features?
+
+Okay.
+
+No questions is clear.
+
+Okay.
+
+Okay.
+
+Now. Then the features of the tool to sort of go a bit more into detail.
+
+So for the new feedback, when you play, you will have the option to either get feedback on every move you make by stockfish.
+
+So you make a move and then it will give you feedback and then you can look at the feedback, understand it, blah, blah, blah.
+
+And then or you can just suppress it and then you can just play a normal game with a bloody or whatever .
+
+And then you will get a game history of the move you've made.
+
+This will be available, the game history both with Stock Fishon and Stockfishoffoff.
+
+However, I think you will need it more if you don't get instant feedback, I think.
+
+Any questions regarding that or no?
+
+No.
+
+No question. Questions.
+
+Okay, then.
+
+So from here on, I will actually start the interview questions.
+
+So the first few interview questions will be gathering some information on your background, on your chest background.
+
+So first question will be, how long have you been playing chess?
+
+Godn been quite some time.
+
+Informally since I was young, must have been 10.
+
+But then, at club level , maybe the last five years.
+
+Interesting.
+
+Okay, and you pursued chess very professionally, or is this do you find you sort of approach it in a casual manner?
+
+Somewhere in between in the sense.
+
+I have a trainer, I do lessons and training, but again, it's not the type that I have to go for all competitions and, you know.
+
+Okay, okay.
+
+I mean, I don't take it that seriously and then.
+
+Okay.
+
+But when I play, I like to play well.
+
+Okay, okay, understand it.
+
+Okay.
+
+What would you define your typical routine as, what do you do to train?
+
+Okay.
+
+Right now I'm on a routine of openings.
+
+Okay.
+
+Okay.
+
+We're using the London opening, which is a very safe.
+
+At times they call it, boarding opening .
+
+There are a lot of openings, but anyway, which you get hold of the center and attack Kingsside using the bishop's knights and the queen.
+
+Okay, which is very powerful.
+
+And especially when the king, sorry, the black King castles , Kingside and goes into King's Indian defense.
+
+I mean, you could just break that easily.
+
+Of course, it's not bulletproof, but it fell out of favor.
+
+And recently, apparently, Manus Carlson , who wasn't moved the last week.
+
+I know.
+
+Manus Scson revived it a bit again.
+
+And you know, when these celebrity players, everybody then starts going back to the opening. .
+
+It's easy to learn, and you don't, there aren't many, many variations.
+
+Then, after I play a game against stockfieldfish level 4, which is about, if I'm not mistaken 1,600 kilo, which is slightly above my mind level.
+
+Then when I play a game, it usually suggests my weakness because then I see the analysis of the game.
+
+Okay.
+
+And I go into puzzles and I make sure that I get a good half an hour of puzzles .
+
+Normally, I would have my coach to review the games again and he would send me the, what's it called now?
+
+His opinion on what I've done and I haven't done.
+
+Well, okay, okay.
+
+That's pretty rigous.
+
+That's a very in detailed routine.
+
+And then you play against people .
+
+Exactly.
+
+Okay.
+
+And then you play against people.
+
+All right.
+
+From everything you've mentioned and in general, can even be things you didn't mention, what do you enjoy the most about learning chess?
+
+Because it's different.
+
+Every time.
+
+You face different situations, especially in the middle game.
+
+Because in the openings and what's it called?
+
+The end game, those are very well studied .
+
+But then in the middle game, you're practically on your own.
+
+Again, if you've played your openings, right, the middle game would really solidify.
+
+Sometimes I usually had opponents, for instance, once in an international tournament I played, I think it was a German player and the guy was rated, 1800 and I was still at 1,200.
+
+I was scared stiff, but I won .
+
+You know, and then there would be people who are rated as much as you are, or less than you are, and they would still beat you.
+
+It's very emotional, so if you don't have a very good day, you expect to have a very good outcome, it's very emotional.
+
+I can imagine.
+
+It's really tight.
+
+And then there is the. What?
+
+It feels triumphant at times and it feels a bit disappointing at times.
+
+Yes, but what I was referring to, if your mental state, you're anxious, let's say, you know, I fought with the wife, and then I go to play.
+
+The chances of having good play is not really.
+
+Okay.
+
+Okay?
+
+But, yes, there was a good book chess for Blood and for sport, if I'm not mistaken.
+
+I can't remember the autor.
+
+Yes, it really hurts the ego, and I've seen quite a lot of people, you know, not taking it nicely.
+
+Well, inside I do feel, yes, especially if somebody, one quarter of my age dinner messes me up.
+
+But it's part of the process.
+
+You have to learn its experience.
+
+You have to learn then that's the way you learn.
+
+That's the way you learn.
+
+I mean, when you put yourself on the board for the first time, I mean, you don't know what you're going to expect.
+
+And then then, by time, yes.
+
+I mean, you see this tricks and traps they try to do and you say, okay, I've been through this.
+
+So this is the way to get out.
+
+And you start gaining experience.
+
+You start gaining experience.
+
+Okay.
+
+Naturally, if you expect you're going to win all your games, that would be a bit silly.
+
+There are some who do, yes, the very top players who do.
+
+I a member of the SweetHSss chess Club.
+
+And leagues, for a lot of reasons, I mean, are.
+
+They use the Swiss systems, I' explain that.
+
+And they are, you know, from 1,700 and above, you play in one division, below 17,00 you play in a lower division.
+
+And that would give you at least the chance to meet players roughly your own match.
+
+Okay.
+
+And in the Swiss system, what they do is first, you are allocated randomly to someone.
+
+So, yes, the first game could be a tough one.
+
+You could be lucky to find somebody who's starting off.
+
+Yes.
+
+It never happened to him.
+
+Yes.
+
+But then from then onwards, you're paired and you always, you know, reach your level so you have a very good chance of a game, winning a game, progressing a game.
+
+Yes, and I think if you take it too seriously, at times it you would you would, you know, you would suffer.
+
+Why?
+
+Because it's because you lose.
+
+Even Manus Scarson loses games once in a while, he does take it back to blow.
+
+Yes.
+
+You know, he does take it badly.
+
+And basically, basically that's it.
+
+Basically, that's it.
+
+There are many things.
+
+There are many things you enjoy.
+
+Yes, yes, yes.
+
+I like the social aspect as well, because at times after the games, we even could discuss, listen, this is what you missed here, and yes, you could have done this, and yes, you know.
+
+Yes, yes.
+
+Most of the time, even after the game finishes, then, they would give us the PGNs of the games and you could see what you've done and you see how other people are playing as well.
+
+Okay.
+
+Because part of the regulations, games have to have to be annotated.
+
+Okay, so even during the game, when you're playing competitively, you would have paper and you would annotate the moves.
+
+Your moves and your opponents more moves.
+
+And those two papers then would go onto the arbiter, who would be moderating the game.
+
+Okay.
+
+You know?
+
+Okay, okay.
+
+All right, okay.
+
+Okay, so I'm moving on.
+
+Oh, wait, no, actually, well more question before.
+
+Would you personally say that you prefer playing chess digitally or over the board?
+
+Listen, over the board is better.
+
+Over the board is better.
+
+I prefer that.
+
+But I don't get too much contact.
+
+I see.
+
+And now I'm facing at the end of this month a competition that would be over the board.
+
+And digitally , it would be flat, you know, the experience is different.
+
+And even when you play against a computer, the way computers come out with the best possible moves is different from a human being.
+
+So at times, yes, they do blunder, of course, and II recall that hallucination.
+
+At times, they do blunder.
+
+But again, I would prefer humans.
+
+I would prefer humans.
+
+Do you prefer action, because digitally, you can still play online.
+
+Do you play online?
+
+Against people?
+
+Rarely, rarely.
+
+But I do.
+
+Yes, I do.
+
+I do.
+
+Okay.
+
+Okay, then I think it's sa to some that you would prefer playing a human over the bird than a human digitally. .
+
+Okay.
+
+Because it's anonymous, you know?
+
+You don't really know.
+
+And you got the social aspect as well, like you mentioned.
+
+Yes, of course, of course, of course.
+
+Okay, no, that makes sense.
+
+Okay, then, moving on from a general chess sense to back to the tool.
+
+So as a first impression, based on what I've told you, what's your gut reaction?
+
+Does anything seem counteruitive or confusing?
+
+No, not really.
+
+They know.
+
+Okay.
+
+You know that my experience with chess.
+
+Okay, it's not.
+
+But I'm familiar with with the setup and with.
+
+Definitely, definitely.
+
+It would be nice to see somebody who just knows, you know, a little bit about it and wants to start playing it.
+
+Okay.
+
+Okay.
+
+That would be really nice.
+
+I think it's a good tool.
+
+I think it's a good tune to get people.
+
+You know, up and running.
+
+Exactly.
+
+But most of the time I feel it's my opinion, nothing scientific, that when you play people , in fact in Malta we don't have, but in America, especially and there are other places in parks, they do have chess boards where you could go there and you find a trash talker and you start playing and they even play for money and whatever.
+
+And at times they would be very good.
+
+Although they don't play professionally, they will be very good players.
+
+There's that social aspect, you know?
+
+Exactly.
+
+After all games, that's what they do.
+
+That's what they do.
+
+Exactly.
+
+And the time to go freely as a parlor game.
+
+Exactly.
+
+That's the way it started off.
+
+So people in high society started to meet, they drink, they eat, and you know, they play chess.
+
+And then I would be better than that one and then we start, you know, competing and it formalized itself.
+
+Like I think most games, if not all .
+
+Most games have not.
+
+Okay, okay.
+
+So imagine you're setting up the program to actually use it, to actually use it.
+
+You know, you are setting up your camera, your physical board, et cetera.
+
+Do you think that there would be any questions that might arise or maybe some complications?
+
+For me, no.
+
+But for a person who's not really conversant , possibly.
+
+Okay.
+
+Possibly.
+
+Okay, okay.
+
+But from what I see, it shouldn't take a a hurdle, you know?
+
+Okay.
+
+But I had friends who were extremely good chess players, something which I couldn't understand.
+
+But outside of chess circles, they're just as dumb as an ass.
+
+Okay.
+
+So when you put them on the board, they're just a genius.
+
+They're a machine.
+
+So when you start asking people, no, you need to set up your camera here, the guy will probably be lost.
+
+Okay.
+
+No, that's very understandable.
+
+Okay.
+
+So I think for the people who are less tech heavy, it will be.
+
+Yes, yes, yes.
+
+And unfortunately, there are still quite a lot of people who are not .
+
+Or at least are afraid rather than, you know.
+
+Okay.
+
+That's a good thing to know that there are also just.
+
+I mean, most of the devices are just plug and play.
+
+You just put them in and they'll set themselves up.
+
+I mean, it's not all that much, you know?
+
+It's not all that much.
+
+Okay.
+
+So as a tool, how confident would you be that it correctly detects moves you make or will there be any doubts to its accuracy?
+
+Well, it depends.
+
+You have to use it, really.
+
+You have to use it, really.
+
+But if it does give good results, you know, in the coaching sense, because that's where I see, especially here in Malta, that we suffer a lot.
+
+There aren't a lot of people playing chess and you can imagine the number of people which you could say are coaches.
+
+Again, I say there are good players and some of those good players do not have the wish or the wants to teach other people, but there are two or three, which I know that are even good coaches, that have represented Malt even on the Olympic teams and reasonably well.
+
+I think, yes,, I think it would it would be a useful, very useful tool.
+
+Why?
+
+Because I could go home and train even without maybe a cold.
+
+Exactly.
+
+Without a coach.
+
+Now what they're doing, even in leagues here in Malta.
+
+At least the club where I am, they partnered up with a Sicilian club. .
+
+So that when Maltese members go to Sicily to play, you do not need to become members or whatever, so it's just, and they could come here.
+
+And the top people in the first division League were there then be able to play in their own league.
+
+So again, you get the experience by exposing yourself to different people.
+
+Different styles.
+
+Why?
+
+Because when you play the same 10 people, mind you, there aren't much playing chess, especially competitively. When you're playing the same 10 people, it's it tends to be to become deja vu.
+
+I know what you like.
+
+So I prepare for that.
+
+And, you know, I would know you really well.
+
+I mean, when we go to play club games, I think it would be lucky if we could collect 20 people.
+
+And even to the point, not that it should, I don't like it, that in Malta, we don't separate women from men.
+
+Abroad they do, okay, they have the luxury of numbers , but over here, it's just one big pot.
+
+So you play women, you play men, you play older people, younger people, irrespective.
+
+Irrespected.
+
+Okay, then.
+
+Okay, speaking of, because you mentioned that, you know, it would depend on its actual performance.
+
+So let's say, hypothetically, that this tool was merged into an application on your phone, where you can take it anywhere you go, and the features would work perfectly fine and a perfect world.
+
+Then this would increase the chance chances pretty heavily on actually adopting this tool into your usual regime.
+
+For me, yes.
+
+You know why?
+
+Because I need to play across a physical board.
+
+So when you have something that adapts your board and gives you electronic feedback, you are still playing sort of physically, okay, you're opponent. Is not there.
+
+And that makes a lot of a difference.
+
+That makes a lot of a difference.
+
+Okay.
+
+In the club, we've got electronic chess boards very expensive that detect moves, but that's all they do.
+
+Okay.
+
+They just, you know, and not at the game for you.
+
+And then, what we do, then, if I have such an app, I think I would take it, even consider buying it.
+
+Because then you would set a camera on top and you could play.
+
+And now I think put a mobile phone, you could play everywhere. Where.
+
+You've got internet accessibility, you could be outside.
+
+The only issue be would be probably putting your mobile phone, mounting it.
+
+You would need the next mount.s.
+
+Yeah.
+
+Exactly.
+
+But yes, I think that would be very good.
+
+That would be.
+
+Well, okay.
+
+So that's interesting to hear.
+
+Okay, then.
+
+What are some things on the other hand that might hold you back?
+
+Well, I really don't know.
+
+I really don't know.
+
+Possibly, you know what?
+
+Just thinking on the top of my head.
+
+The Lee chess and the chess.com are readily available .
+
+You need to set up nothing.
+
+So I think an app like that has to have minimal setup, so to speak.
+
+Okay.
+
+It has to have minimal.
+
+It has to make it easier than the other competition.
+
+Because listen, if you're a player like I am a club player who likes to play, you know, in a club and test yourself that way, that would be okay.
+
+But it if you're somebody who plays it casually most of the time, you just go onto a computer or even your mobile phone, I use my mobile phone, for instance, the chest.com orche chess when I'm waiting for an appointment.
+
+You know, you're waiting for a doctor's appointment .
+
+You say, I've got 20 minutes, half an hour, let me run again.
+
+Okay?
+
+So it just keeps you, keeps you going.
+
+Keeps you going.
+
+Yes, so as long as it's not there, it's not what's it called?
+
+It has an easy setup and it works fine.
+
+It's okay.acy.
+
+And I think even it has to be directed against what type of niche mark, so to speak, he wants to focus on.
+
+But to tell you the truth, I haven't seen products like it. .
+
+The closest you could get just coming to think of.
+
+There are electronic boards you can buy.
+
+Exactly.
+
+There are electronic boards, which are relatively small and prices vary quite a lot.
+
+But there are some within the hundred euro range, which I think are affordable .
+
+They play decent level of chess.
+
+And you could, you know, and you're playing with pieces, the board would be sensitive it won't have a commonoff from the underside. And it would know how to and it would then on a display, a lidy display tell you it's move and you you would move whatever it tells you to move.
+
+And yes, I don't know how popular they are, but I think I think I would get one.
+
+The downside of such, I think, which the diversion you're proposing would not have, is that stockfish would be updated regularly .
+
+This, of course, once you've bought it, it's fixed into the hardware, and with time it probably would get old.
+
+It would require version updates, for sure, it wouldn't maintance.
+
+I doubt it if they have them for the hardware ones.
+
+Okay.
+
+But for the one you're proposing, yes, one stockfish has been updated, it's a matter of changing the version of stockfish.
+
+Exactly.
+
+Okay.
+
+So let's say hypothetically, now moving on towards a different something that you've actually brought into my mind.
+
+Let's say with the app, you would have included a tripod, which is tailored called the app, a perfect tailored tripod, which gives you the perfect amount of distance.
+
+Yes.
+
+Would you think that would increase the chances ofily of buying such a product?
+
+I think so.
+
+I think so.
+
+I think so.
+
+I think so.
+
+Unfortunately, in Malta, we still do not have the culture of going to a park, finding someone and playing chess, which is unfortunate.
+
+Having said that, a lot of members do congregate, so to speak in cafes, yes , that happens.
+
+I mean, there is a cafe in Z, my cafe.
+
+The owner is an average chess player and so he invites people and there are clubs, 65th Square, a good club.
+
+They invite me, I've never been.
+
+They used to play in MCa , the square there, near the police station.
+
+There used to be a restaurant, Uncle Matt's Kitchen or something of this sort they used to play there.
+
+And now with the road where it's going on, they've moved, which the I think is next to the National swimming pool somewhere down there, and they go there and then there is book bites in Slimma where they go as well.
+
+Okay.
+
+Okay, so you're having a coffee.
+
+We're playing a leisurely game.
+
+We don't play four points, but we play, you know, to exercise ourselves, meeting people, taking a coffee or a beer.
+
+There's that social aspect.
+
+It is just brilliant .
+
+Okay.
+
+It is brilliant.
+
+Okay, then that's very interesting.
+
+I would.
+
+I would personally.
+
+I think I would use such a thing as a toolb.
+
+Okay.
+
+So I think this would be, this would very much vary a lot on, depending on the location.
+
+I think where this culture is rich, it would be much ..
+
+Okay, okay.
+
+In Buji bike, remember once I used to see a couple of old men. Play chess but probably they were just friends and they meet on a regular basis and play.
+
+But I've never seen them again.
+
+Okay.
+
+I hope they didn't.
+
+Okay.
+
+Me too .
+
+Okay, then.
+
+But knowing one of them, yes, they must be very old today.
+
+Okay, okay.
+
+So which of these features would you be skeptical that they might not meet the standards of your existing routine?
+
+Maybe some limitations.
+
+Okay.
+
+There's I missing.
+
+The game features.
+
+So from the game field.
+
+So was.
+
+So what I see, you could set up a game from a position and then continue.
+
+So there you could test for end games, you could try middle games, openings and whatnot.
+
+I don't see much.
+
+As long as the the chess engine behind it is good, which stockfish.
+
+Stockfish is?
+
+Stockfish, yes, of course.
+
+I think it's the best . Just have in regard there are many.
+
+No, it's the best open source engine.
+
+Closeosed source, there are others, which are really good as well.
+
+But open source is the best.
+
+And I think they use it as a benchmark at times.
+
+Okay.
+
+All right.
+
+Yeah.
+
+Yes, it's highly regarded.
+
+From what I've researched.
+
+Leah, there's something called Leah Chess.
+
+I have never played it.
+
+Mostly I play stockfish, you know?
+
+I find I find it okay.
+
+Yes, as long as it's that.
+
+And you could change the level.
+
+Stockfish, you could set a level to it.
+
+Okay.
+
+So what I normally do is I play above my level.
+
+I know I lose a lot, but you learn a lot.
+
+So you think that if I were if the program would have a feature where you could actually play a computer as well?
+
+Because of the moment it's not a feature.
+
+Of course.
+
+So I think such a feature would be a very, very good.
+
+Most of the time, I train alone.
+
+That would be a very good.
+
+Most of the time, I train alone.
+
+Agreed.
+
+Agreed.
+
+Okay.
+
+That's a very good opportunity..
+
+And you know, I would be after a day's's work and then I come here, then do some work extra, prepare for lessons or whatever.
+
+And then I say I have an hour in the evening.
+
+I mean, you just go in, log on to Lee chess and you start, you're ready regimen and say, yes, I don't have an hour of this.
+
+And yes, you do that.
+
+You do that.
+
+So in your opinion, if you could do the same routine you do now, where you go play against stockf, etc., but you could do so over the bird.
+
+It would be a very nice edition.
+
+I think it would be a nice edition, yes.
+
+I think it would be a nice edition.
+
+I mean, imagine that even in a club .
+
+You know. Be people playing a camera and you have somebody, you know, either're assisting you or playing playing a machine, so to speak.
+
+But physically.
+
+I mean, especially especially these young ones physically.
+
+And you know what you should add, maybe to it as well?
+
+Time control.
+
+Time, yes, I was thinking about since players play with timers. But that could be a bit tricky because what happens, I used to train a lot on 10 minute games.
+
+And that's good to keep your mind literally razor sharp.
+
+But when I go to competitions, I just rush through my moves then.
+
+Competition would be 90 minutes each sign.
+
+It's classic, Classic.
+
+Okay, all right.
+
+I used to prefer the classical although I played Blitz and Blitz Bullet the 10 minute things.
+
+I prefer the classical one.
+
+Okay.
+
+No, it's just .
+
+Okay, then.
+
+So to add more onto it, I would say that when you play on your own, I think such a thing like vo text to speech, which tells you the moves that have been made by the computer.
+
+You won't need to manuel a check.
+
+So you get feedback and then you play the move for the.
+
+It depends because there's something as blind chess.
+
+Okay.
+
+I never played it, but yes, people do play it.
+
+You have to imagine the board, so to speak.
+
+Ah, okay.
+
+Okay, so that would be nice.
+
+Pl your own not be difficult, though, since there is against a computer , the computer will play the most on the physical board. Audio your feedback..
+
+What could be implemented?
+
+Maybe is that there are no black pieces on the board, but legitally it's there for the computer.
+
+So you're playing on your own.
+
+Okay.
+
+Yes, all you need to do is.
+
+You all need to move the black pieces.
+
+The video output, that's all.
+
+That's okay.
+
+That's really insightful.
+
+Okay.
+
+Then so.
+
+Again, I don't know people with disabilities, what if they play chess or not.
+
+In M, I'm not aware.
+
+I will not be surprised that you know, outside Malta there would be people with disabilities and why not start after?
+
+For sure.
+
+Why not after all?
+
+Why not?
+
+I think most of the time it should be again that you know, puts people together rather than separate them.
+
+Definitely.
+
+Okay.
+
+Even some support for disabled people might be very nice at.
+
+Of course, of course, of course, of course.
+
+Very, very good.
+
+And you've got even people who do see, but they have limited vision.
+
+It would be nice to get .
+
+They all do feedback?
+
+Mm.
+
+I mean, in, if this is added, this can also be a setting in reality, so it's nothing to complic.
+
+Yes, of course, of course, of course.
+
+Of course.
+
+Okay, then.
+
+So if you could tweak one aspect of the current existing rather than the high so not hypothetical, what exists as of the moment .
+
+What would you actually tweak to make it maybe increase its value?
+
+Or would you rather leave it to us already been?
+
+Well, most of the features are there, but probably I would put a larger board.
+
+Okay.
+
+A larger board.
+
+And maybe, maybe, a digital representation of the board.
+
+A digital representation of the board?
+
+I To be, I'm working on it.
+
+Okay.
+
+So So it sees the 3D thing .
+
+And I mean, imagine you have a hot game.
+
+Exactly.
+
+And you want to display it on some larger screen where where people are just watching it.
+
+You could do it.
+
+I've seen that implemented in reality.
+
+I think it's possible.
+
+Generally, when it's games , they play, you know, these super champions like Fabiano Carana, what's his name out?
+
+Manus Carson and then there's the Japanese, I can't remember his name.
+
+I should be ashamed of myself.
+
+But yes, when they're playing , you know, against two titled players and it's not a whole league, it's nice to have that digital.
+
+And you have an audience that goes there to see the game, you know?
+
+Okay, so would you recommend this technology to your peers?
+
+Yes, I think so.
+
+Yes, yes, yes.
+
+Definitely.
+
+Yes, this includes.
+
+I think it's a very good teaching tool.
+
+It's a very good teaching tool.
+
+Okay.
+
+Okay, then.
+
+And then that's all from my questions.
+
+I'm not sure if there are any other things you wish to end.
+
+Oh, not really.
+
+They are not really not really.
+
+It was fun.
+
+Fun thinking about them and going to.
+
+I agree.
+
+I agree.
+
+Okay, then.
+
+Okay, then that's all for the interview.
+
+All right.
+
+Thank you.
+
+Thank you.
+
+Thank you. 

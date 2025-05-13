@@ -1,0 +1,71 @@
+“Thanks for taking part today.
+
+Before we begin, I’ll give you a quick rundown of the requirements for the camera-only chess tool we’re discussing.
+
+A physical chessboard on a table.
+A single camera—for example, your phone or a webcam—mounted or held above the board.
+A computer or smartphone app that processes that camera feed in real time.
+
+-- Any questions?
+
+Physical setup details:
+Mount or hold your camera approximately over the center of the board—doesn’t have to be perfectly 90° overhead. Our image-processing algorithms correct for slight angles and skew.
+Open the app on your computer, point it at the board, and tap “Start.”
+Enter an initial FEN if you’re picking up a custom position; otherwise, it assumes a standard start starting position and begins tracking moves automatically.
+
+-- Any questions?
+
+To Set up a game:
+
+Select from 2 choices:
+- Puzzle Solver
+	- Randomly generates puzzles for you to solve.
+	- This will require you to set up the starting physical position the same as specified by the program.
+- Game Tracker
+	- Set up a game from any position you like, and track moves automatically.
+	- This will require you to provide a string FEN representation of the position you'd like to start with.
+	- If starting from a default position, you will not be required to pass this.
+- By Default
+	- The game will assume you are starting a normal game from a starting position, therefore will require no manual input of any kind.
+
+-- Any questions?
+
+The features of the tool will be:
+Puzzle Solving,
+Move Feedback: Every time you make a move, it passes it to Stockfish in the background and shows you instantly if it’s a strong move, a mistake, or a blunder—just like an engine analysis on chess.com, but right on your OTB board.
+Game History Saving: When you finish, it exports the full move list as a .PGN file so you can review or share your games later.
+That’s it. You play your OTB game as normal, and behind the scenes you get engine feedback, puzzles, and a saved PGN—without ever moving pieces into a digital interface.
+I’d love to hear your first impressions…”
+
+-- Any questions?
+
+-- interview questions start here
+Intro (Player Chess background):
+- Gathering information on chess background
+	- how long you’ve been playing
+	- your typical training routine
+	- what you enjoy most about learning chess.
+- Do you prefer playing chess digitally or in a traditional, Over the board manner?
+
+Usability & Ease of Use:
+- First Impression -> Based on the description, what’s your gut reaction? Does anything seem counter-intuitive or confusing?
+- Setup -> Imagine you’re setting it up: pointing your phone’s camera at the board and tapping to start. What questions or concerns arise about how easy that would be
+
+Trust in the tool:
+- How confident would you feel that the program will see and understand your pieces and moves correctly? What would make you trust or doubt its accuracy?
+
+Integration and adoption:
+- If this camera-only tool slipped into your usual practice, such as game analysis or puzzle-solving, how well do you think it would fit into your already existing training method?
+- What might hold you back from trying or sticking with a camera-only tool? (e.g., fear of mis-recognition, preference for screen-based interfaces, setup time)
+
+Skill-Based Perspectives
+- For Beginner -> Which of these features: Puzzles from a physical board, instant feedback, Game History—do you think would help you most as you’re still learning basics?
+
+- For Advanced -> Which features would you be skeptical about or push harder on (e.g. precision of puzzle selection, depth of hints) to meet the standards of your already existing training routine?
+
+Design Feedback & Wrap-Up:
+- If you could tweak one aspect—accuracy, UI simplicity, types of puzzles—what would you change to make this tool genuinely valuable? 
+- Would you recommend this technology to your chess-club peers?
+
+Search FIDE: Mario Mallia-Milanez
+https://ratings.fide.com/profile/5602459
